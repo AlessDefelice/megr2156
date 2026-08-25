@@ -27,6 +27,7 @@ The Soda can lever is hinged in the center. When an upward force is applied to t
 The soda can flap is precisely thinner around its edges. This means when force is applied from the lever, it breaks in a clean replicable manner.
 The patent for the soda can was originally held by Martin G. Meder, #US5645190A
 The Wax-capped plastic soda bottle accomplishes the same function, with a different method of opening. Similarly, a glass bottle with a pressed metal cap performs the same basic function.
+The Patent designs specifies a slightly thinner section in the top of the can, which allows it to be opened any time with little effort. This ability to break cleanly every time has allowed the soda can to be so widely used.
 
 ## Communicate
 
