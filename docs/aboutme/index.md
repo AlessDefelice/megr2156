@@ -1,3 +1,5 @@
 My name is Alessandro Defelice, I am an aspiring Motorsports Engineer. I started my engineering journey through mechanics. I was a professional mechanic and I specialized in rebuilding suspension systems. This led me to follow up my passions with a more complete vision of what makes a part or a system work, or not. These questions have pushed me to pursue my degree in Motorsports Engineering. My aptitude and training have shown that I can be very competitive in a motorsports setting, and I aim to be great at what I do. 
+
 I believe defending an engineering decision involves several things. Firstly; you must know all the variables that will have an effect on your system. Secondly, you must know how the system will interact with those variables. These interactions will lead you to an engineering problem and then you will need to decide how to pick the best solution. I am not currently prepared to be able to do these things in any replicable manner.
+
 I spent about 4 hours on this assignment.
