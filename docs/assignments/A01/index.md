@@ -25,6 +25,7 @@ The Aluminum can is governed by multiple physical principles. Mainly, the can is
 The Soda can lever is hinged in the center. When an upward force is applied to the back of the lever, the can flap is pushed down, breaking the seal.
 ![Soda can flap](images/20260825_001022.jpg)
 The soda can flap is precisely thinner around its edges. This means when force is applied from the lever, it breaks in a clean replicable manner.
+The patent for the soda can was originally held by Martin G. Meder, #US5645190A
 
 ## Communicate
 
