@@ -21,7 +21,7 @@ The portfolio is ready to hand to any employer.
 ## Decide
 The Aluminum Beverage can will remain a fully sealed container of gas and liquid for extended periods of time. The can is opened via a mechanical level that breaks the top wall.
 The Aluminum can is governed by multiple physical principles. Mainly, the can is a thin-walled pressure vessel, and is governed by related hoop-stress equations. An assumption made is that the atmospheric (or external) pressure will never exceed the pressure in the can.
-! [Soda Can Lever] (image-20260825_001049.jpg)
+![Soda Can Lever](images/20260825_001049.jpg)
 
 
 ## Communicate
