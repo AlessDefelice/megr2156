@@ -42,4 +42,5 @@ This is mainly attributed to the difference in the young's modulus when using a 
 I believe 3.8% to be a low enough difference to trust either calculation. However, this is because the beam is very simple and there are no geometric features affecting the stress levels. For a more complicated part I would trust SolidWorks as it is considering many more variables than I can.
 
 below is my file
-[A03](docs/A03.SLDPRT)
+[A03](A03.SLDPRT)
+
