@@ -23,5 +23,7 @@ I Had to perform this calculation twice, independently verifying the bending str
 I then went back to the original view of the part and edited my dimensions. I found the base min to be 2.4mm and I then chose 2.5 to use a nice square design. I calculated my safety factor to be 1.157, allowing the part to function as intended but leaving little room for error.
 
 ## Communicate
+[Below is my embedded file](A04.pdf)
+
 I found an effective way to define the dimensions of my part using the stress and deflection approximations found in the machinery's handbook.
 My factor of safety is reasonably low. reflecting on my design, I would include a min FS of 1.5 in my calculations, allowing me to create a more real-world product.
