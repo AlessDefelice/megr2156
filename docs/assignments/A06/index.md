@@ -24,6 +24,7 @@ After the equations began to take shape, I read the tolerancing table out of the
 <img width="540" height="287" alt="Screenshot 2026-09-27 215650" src="https://github.com/user-attachments/assets/e9a585db-5cba-44de-ad18-82ef7d454ade" />
 
 The part is now fully formed, and I created my drawing.
-[drawing linked here](
+[drawing linked here](A06.SLDDRW)
+[part linked here](A06.SLDPRT)
 ## Communicate
 
