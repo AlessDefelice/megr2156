@@ -30,4 +30,6 @@ The part is now fully formed, and I created my drawing.
 [part linked here](A06.SLDPRT)
 
 ## Communicate
+Parametrically designing the part shed light on several things. Having to directly calculate the section modulus exposed that I had incorrectly determined the dimensions in my hand calculations.  The equation I used was 6_a=WL/Z, 6_a is my allowable stress, W is the load, L is the length, and Z is the required section modulus. The section modulus of a circle is calculated by Z=(pi/16)*D^3, where D is the required diameter. I solved for D and added the equations to the equations tab. This caused me to double-check all my calculations, and I found that SolidWorks had correctly determined the diameter. I had to edit the diameter directly, but I would have had to change the dimensions to the global variable anyhow. However, I had to directly edit the part connecting the shaft to the body of the bracket.
+I applied the tightest tolerance (RC1) to dimension C, where we required accurate location. For parts that only required lower tolerances, such as dimension C, we applied the loosest possible tolerances (RC7). Applying looser tolerances where allowable will reduce manufacturing cost and complexity, and will not inhibit the function of the part.
 
