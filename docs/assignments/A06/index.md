@@ -25,6 +25,8 @@ After the equations began to take shape, I read the tolerancing table out of the
 
 The part is now fully formed, and I created my drawing.
 [drawing linked here](A06.SLDDRW)
+
 [part linked here](A06.SLDPRT)
+
 ## Communicate
 
