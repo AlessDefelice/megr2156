@@ -14,17 +14,16 @@ I then assigned my calculated value to the diameter of the shaft
 <img width="484" height="386" alt="Screenshot 2026-09-27 202353" src="https://github.com/user-attachments/assets/0e3d27f9-9979-461f-b8e2-17be880c2e3a" />
 
 We continued the same with each part until I had a working model.
-Then, I read the tolerancing table out of the machinery's handbook and calculated the actual dimensions of the parts. I added these to my parametric equations for multiple reasons. Firstly, it allowed me to calculate the required dimensions for the last few parts. Additionally, I could directly assign the values to the drawing
+
+## Decide
+
+After the equations began to take shape, I read the tolerancing table out of the machinery's handbook and calculated the actual dimensions of the parts. I added these to my parametric equations for multiple reasons. Firstly, it allowed me to calculate the required dimensions for the last few parts. Additionally, I could directly assign the values to the drawing
 
 <img width="596" height="262" alt="Screenshot 2026-09-27 215401" src="https://github.com/user-attachments/assets/3b74aaed-ebbf-40c1-813e-da2f475a323c" />
 <img width="585" height="316" alt="Screenshot 2026-09-27 215451" src="https://github.com/user-attachments/assets/de78f361-723e-458c-99ec-e8d27cb8c36e" />
 <img width="540" height="287" alt="Screenshot 2026-09-27 215650" src="https://github.com/user-attachments/assets/e9a585db-5cba-44de-ad18-82ef7d454ade" />
 
-
-
-
-## Decide
-
-
+The part is now fully formed, and I created my drawing.
+[drawing linked here](
 ## Communicate
 
