@@ -6,7 +6,8 @@ The objective of this assignment builds off our previous bracket design. We are 
 
 ## Analyze
 I began with my design from A05, and I started parametrically solving for the diameter of the shaft.
-[!](Screenshot-2026-09-27-202314.png)
+<img width="609" height="265" alt="Screenshot 2026-09-27 202314" src="https://github.com/user-attachments/assets/7864dac9-8d09-4f1d-9d84-8d3ea44107fc" />
+
 
 
 
