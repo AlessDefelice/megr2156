@@ -36,4 +36,9 @@ final stress levels:
 
 
 ## Communicate
-I thought I had parametrically designed the part to function in an optimized manner, but I was extremely wrong. My first real data after convergence showed my part was LESS THAN HALF as strong as it should be. 
+I thought I had parametrically designed the part to function in an optimized manner, but I was extremely wrong. My first real data after convergence showed my part was LESS THAN HALF as strong as it should be. Finite Element Analysis is an extremely powerful tool that allowed me to nearly triple my strength and stiffness, and reduce my weight by roughly 50%. I was surprised How much a convergence error changed my data, but I had a effective tool to optimize that as well.
+
+Below I've embedded my CAD file, optomized:
+
+
+
