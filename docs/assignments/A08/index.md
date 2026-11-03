@@ -37,3 +37,8 @@ These considerations were highly important when designing my gearbox. I was able
 ## Communicate
 The lecture on gearboxes has allowed me to make an informed decision when creating a long-term functioning box. I learned a few things, and I had to pay close attention to my journal bearing design so that I could effectively hold and lubricate the gear system. I also familiarized myself with the ideal of the radial force, which is highly important when designing a gear system.
 
+Here is my gearbox
+[gearbox](gearbox.SLDASM)
+
+time spent was roughly 5 hours accounting for the design an execution.
+
