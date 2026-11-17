@@ -2,7 +2,7 @@
 
 ## CAD Assembly Link
 
-<a href="A10.zip" download>Download Truss SolidWorks Assembly (.ZIP)</a>
+<a href="A10(1).zip" download>Download Truss SolidWorks Assembly (.ZIP)</a>
 
 ## Objective
 
