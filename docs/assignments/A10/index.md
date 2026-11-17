@@ -80,17 +80,17 @@ Keep in mind the crosshead is not included in the bill of materials since it is 
 
 Parametric equations will allow for further adjustments if necessary. 
 
-<img src="A10-1 (2).png" style="border-radius: 12px; width: 50%;">
+<img src="A10-1 (1).png" style="border-radius: 12px; width: 50%;">
 
 These are the dimensions for our Crosshead. 
 
-<img src="A10-1 (3).png" style="border-radius: 12px; width: 50%;">
-
 <img src="A10-1 (4).png" style="border-radius: 12px; width: 50%;">
+
+<img src="A10-1 (3).png" style="border-radius: 12px; width: 50%;">
 
 Adding in parts from BOM from Mcmaster-Carr. 
 
-<img src="A10-1 (1).png" style="border-radius: 12px; width: 50%;">
+<img src="A10-1 (2).png" style="border-radius: 12px; width: 50%;">
 
 Finally adding the outer frame of the assembly.
 
