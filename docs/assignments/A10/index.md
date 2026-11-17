@@ -22,19 +22,19 @@ This is a Given List of the overall Scope for the project and key constraints we
 
 The first step in this assignment is to determine the minimum diameter that the lead screw can be based on axial stress. We chose Carbon Steel as the material for our lead screw, which has a yield strength of 310 MPa. It is also important to take into consideration the safety factor of 4 when performing these calculations. 
 
-<img src="A10 (2).jpg" style="border-radius: 12px; width: 50%;">
+<img src="IMG_0404.jpg" style="border-radius: 12px; width: 50%;">
 
 ### Torque and Speed Calculations: (Noah D)
 
 Next we calculate the rotational speed range given the minimum and maximum torque that can be applied. We used both materials properties to find that 0.4 would be an accurate coefficient of friction in order to consider friction in our calculations. 
 
-<img src="A10 (3).jpg" style="border-radius: 12px; width: 50%;">
+<img src="IMG_0405.jpg" style="border-radius: 12px; width: 50%;">
 
 ### Nut and Flange Calculations: (Noah D)
 
 Next was determining the bearing and bending stress the nut would experience under the given load, and whether the nut we chose could withstand the forces being put into it. It is also important to consider the safety factor of 4 in these equations. 
 
-<img src="A10 (1).jpg" style="border-radius: 12px; width: 50%;">
+<img src="IMG_0405.jpg" style="border-radius: 12px; width: 50%;">
 
 ## Crosshead Design 
 
