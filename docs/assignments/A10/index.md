@@ -94,7 +94,7 @@ Adding in parts from BOM from Mcmaster-Carr.
 
 Finally adding the outer frame of the assembly.
 
-<img src="A10 (5) (1).png" style="border-radius: 12px; width: 50%;">
+<img src="A10-2.png" style="border-radius: 12px; width: 50%;">
 
 
 
