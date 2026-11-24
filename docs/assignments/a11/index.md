@@ -10,6 +10,7 @@ We Chose stepper motor 6627T923. This motor has a maximum rated torque capacity 
 
 Our motor has an efficiency rating of 90%. It has a rated voltage of 24VDC and a current of 2 Amps per phase, giving 4 amps of total draw.
 
+For mounting, I chose a set of 47065T854 T-Slot framing mounts that include hardware and T-nuts to bolt securely to our frame, I then drilled 4 precision holes at the NEMA 23 bracket size to mount the motor. This provides a removable solution with no special machining to bolt to the T-slot frame. 
 
 
 ## Decide
